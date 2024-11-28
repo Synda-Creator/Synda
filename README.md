@@ -8,7 +8,7 @@ Synda is an AI-powered Twitter bot designed to engage with users in real-time co
 
 ## Project Structure
 
-The project consists of a single main Python file (main.py) that handles all the functionality, including Twitter API interaction, AI response generation, AI management.
+The project consists of a single main Python file (main.py) that handles all the functionality, including Twitter API interaction, AI response generation, and AI management.
 
 ## Key Components
 
@@ -16,9 +16,7 @@ The project consists of a single main Python file (main.py) that handles all the
 
 2. OpenAI GPT-3 Integration: Leverages the OpenAI API to generate contextually relevant responses to tweets.
 
-3. Console Interface: Implements a letter-by-letter printing effect for a more engaging user experience when displaying tweets and responses.
-
-4. Logging: Utilizes Python's logging module to keep track of the bot's activities and any errors that occur.
+3. Logging: Utilizes Python's logging module to keep track of the bot's activities and any errors that occur.
 
 ## Features
 
