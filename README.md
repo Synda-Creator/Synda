@@ -48,22 +48,12 @@ Once running, Synda will:
 4. Like incoming tweets
 5. Generate AI responses using OpenAI's GPT-3
 6. Reply to the tweets with the generated responses
-7. Display all interactions in the console with a letter-by-letter effect
 
 ## Configuration
 
 The bot's behavior can be customized by modifying the following in main.py:
-- Adjust the `delay_range` in `print_letter_by_letter` function to change the typing speed
 - Modify the `track` parameter in `stream.filter()` to listen for different keywords
 - Adjust the OpenAI API parameters in the `generate_response` function to fine-tune response generation
-
-## Limitations and Future Improvements
-
-- Add more robust error handling and rate limiting
-- Implement conversation memory for more contextual responses
-- Add sentiment analysis for more appropriate responses
-- Expand to other social media platforms
-- Split the code into multiple files for better organization as the project grows
 
 ## Disclaimer
 
