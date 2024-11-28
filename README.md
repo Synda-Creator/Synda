@@ -1,5 +1,7 @@
 # Synda: AI-Powered Twitter Interaction Bot
 
+## [Visit Twitter Page](https://x.com/SyndaAI_)
+
 ## Concept
 
 Synda is an AI-powered Twitter bot designed to engage with users in real-time conversations. It uses natural language processing to understand incoming tweets and generate contextually appropriate responses. The bot aims to provide a seamless and intelligent interaction experience, simulating human-like conversations on Twitter.
